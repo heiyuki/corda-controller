@@ -1,1 +1,1 @@
-java -jar corda.jar
+web: java -jar corda.jar
